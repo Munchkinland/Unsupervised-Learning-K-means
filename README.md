@@ -1,8 +1,10 @@
-# 👨‍💻 K-Means Model + KNN Model
+# 👨‍💻 K-Means Model + KNN Model for Real State Classification
 
 ![image](https://github.com/Munchkinland/Unsupervised-Learning-K-means/assets/92251234/5d6efa89-b98b-4e67-b9b8-40614cee2c66)
 
 This project combines two powerful machine learning techniques, K-Means and K-Nearest Neighbors (KNN), to address a classification or data analysis problem. The K-Means Model is used to cluster data into groups, aiding in the discovery of patterns and structures within the data. Subsequently, the KNN model is employed to classify samples based on their proximity to the centroids of clusters identified by K-Means. Together, these two approaches can be used to solve a variety of classification and data segmentation problems. This notebook provides a practical approach to implementing and evaluating these models, offering a deeper understanding of how they can be applied to real-world problems.
+
+The combination of a K-Means Model and a KNN (K-Nearest Neighbors) Model for Real Estate Classification is a non-conventional approach to classifying real estate properties. While K-Means is typically used for data clustering, grouping similar data points into clusters, and KNN is commonly employed for classification based on the proximity to nearest neighbors, this combination involves utilizing both models to tackle the task of categorizing real estate properties.
 
 📝 Instructions
 
